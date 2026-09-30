@@ -1,0 +1,5 @@
+click
+rich
+pytest
+sqlite3
+mock
